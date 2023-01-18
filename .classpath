@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="codigoEmployee/" kind="src" path="TallerPruebaUnitaria/TallerPruebasUnitarias/src"/>
+	<classpathentry kind="src" path="TallerPruebaUnitaria/TallerPruebasUnitarias/src/codigoEmployee"/>
+	<classpathentry kind="output" path="TallerPruebaUnitaria/TallerPruebasUnitarias/bin"/>
+</classpath>
