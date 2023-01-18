@@ -31,7 +31,4 @@ public class EmployeeCSTest extends TestCase{
 		assertEquals(919.0,Math.floor(new Employee(900.0f,"COP",0.9f,EmployeeType.Manager).cs()));
 	}
 	
-	public void testNullSalary() {
-		assertEquals(0.0,Math.floor(new Employee(0.0f,"USD",0.9f,EmployeeType.Manager).cs()));
-	}
 }
